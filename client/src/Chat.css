@@ -77,12 +77,14 @@ form button {
     border-radius: 5px;
     margin-top: 12px;
     align-self: flex-end;
+    text-align: right;
 }
 
 .chat-message.chat-ai {
     background-color: #001A41;
     flex-direction: row;
     align-self: flex-start;
+    text-align: left;
 }
 
 .avatar {
